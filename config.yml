@@ -6,7 +6,7 @@ canonicalurl: true
 theme: "hyde"
 date:
   format: "j F Y"
-  timezone: "Europe/Paris"
+  timezone: "Europe/Bern"
 pagination:
   max: 5
   path: "page"
